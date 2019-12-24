@@ -1,0 +1,210 @@
+{
+  "project_info": {
+    "project_number": "102854734050",
+    "firebase_url": "https://android-classroom.firebaseio.com",
+    "project_id": "android-classroom",
+    "storage_bucket": "android-classroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:1537ab911da55b43",
+        "android_client_info": {
+          "package_name": "com.cursedcompany.androidclassroomauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:2d20f35d6b07f331",
+        "android_client_info": {
+          "package_name": "com.cursedcompany.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-mprv24ni8j179s4agv32e98easo678mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursedcompany.firebasegooglesignin",
+            "certificate_hash": "cd27e8ade2c5dee322e6eb910633bb7f5dfc4d4d"
+          }
+        },
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:3fea9ec05ba5a42c",
+        "android_client_info": {
+          "package_name": "com.cursedcompany.simpleblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:1a2860ed2f728cc1",
+        "android_client_info": {
+          "package_name": "com.theandroidclassroom.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:a78261c8ae284ec1",
+        "android_client_info": {
+          "package_name": "com.theandroidclassroom.tacnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102854734050:android:ef4a5bb57d993a55",
+        "android_client_info": {
+          "package_name": "theandroidclassroom.photosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102854734050-6qlqjlsqm5h7ig1hj6r29mbq365i4rpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZavRoZ-1oG4pqmqlfGTaxmgfekNp2FCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
